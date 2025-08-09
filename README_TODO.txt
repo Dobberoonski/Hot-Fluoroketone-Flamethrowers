@@ -3,4 +3,6 @@ stuff i would like to do:
     - refactor code (lol like i'd ever do that)
     - incorporate flamethrower wagons and tweaks from other mods
     - moar lang cfgs
+
     - handheld flamethrower ammo with fkhot??
+    - change ketone-boiler recipe?
