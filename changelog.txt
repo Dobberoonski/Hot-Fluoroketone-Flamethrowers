@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 09AUG2025
+  Major Features:
+    - Initial Release!!
+    - Halves flame damage from Flamethrower Turrets
+    - Decuples fluid consumption of Flamethrower Turrets
+    - Hot Fluoroketone may be used as a fluid input in Flamethrower Turrets
+    - Added Ketone-Boiler, to heat Cold Fluoroketone into Hot Fluoroketone
