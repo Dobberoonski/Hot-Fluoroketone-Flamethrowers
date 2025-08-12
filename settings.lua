@@ -65,12 +65,21 @@ data:extend({
     },
     {
         type = "string-setting",
+        name = "electric-ketone-boiler_energy_source_drain",
+        setting_type = "startup",
+        default_value = "300W",
+        allow_blank = false,
+        auto_trim = true,
+        order = "ponyh"
+    },
+    {
+        type = "string-setting",
         name = "fluoroketone_heat_capacity",
         setting_type = "startup",
         default_value = "3J",
         allow_blank = false,
         auto_trim = true,
-        order = "ponyh"
+        order = "ponyi"
     },
     {
         --x0.5 fluid volume from vanilla
@@ -79,6 +88,22 @@ data:extend({
         setting_type = "startup",
         minimum_value = 1,
         default_value = 100,
-        order = "ponyi"
+        order = "ponyj"
+    },
+    {
+        type = "double-setting",
+        name = "stream_size_modifier",
+        setting_type = "startup",
+        minimum_value = 1,
+        default_value = 1.3,
+        order = "ponyk"
+    },
+    {
+        type = "double-setting",
+        name = "stream_damage_modifier",
+        setting_type = "startup",
+        minimum_value = 1,
+        default_value = 2.7,
+        order = "ponyl"
     },
 })
