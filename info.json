@@ -1,6 +1,6 @@
 {
     "name": "ketoneboiler",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "title": "Hot Fluoroketone Flamethrowers",
     "description": "Feed hot fluoroketone to flamethrower turrets. Generally nerfs flamethrower turret damage and fluid consumption overall (settings are configurable). Feeding hot fluoroketone is on par with vanilla light-oil flame damage. Also adds a boiler to heat up your cold fluoroketone.",
     "author": "Dobberoonski",
