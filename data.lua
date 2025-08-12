@@ -28,7 +28,7 @@ flamethrowerturret.attack_parameters.fluids = {
 }
 
 --[[Electric Fluoroketone Boiler.]]
-local elecelecKetoneBoiler = table.deepcopy(data.raw["boiler"]["boiler"])
+local elecKetoneBoiler = table.deepcopy(data.raw["boiler"]["boiler"])
 elecKetoneBoiler.name = "elec-ketone-".. elecKetoneBoiler.name--elec-ketone-boiler
 elecKetoneBoiler.minable.result = elecKetoneBoiler.name
 elecKetoneBoiler.surface_conditions = nil

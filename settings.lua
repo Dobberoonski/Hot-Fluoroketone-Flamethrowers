@@ -71,7 +71,7 @@ data:extend({
         allow_blank = false,
         auto_trim = true,
         order = "ponyh"
-    }
+    },
     {
         type = "string-setting",
         name = "fluoroketone_heat_capacity",
