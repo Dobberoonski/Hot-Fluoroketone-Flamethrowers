@@ -1,0 +1,4 @@
+Code used from Schmendrick's Flamethrower Fluid mod
+https://mods.factorio.com/mod/flamethrower-fluid
+MIT License
+Thank you!
