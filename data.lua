@@ -40,12 +40,12 @@ elecKetoneBoiler.energy_source = {
 }
 --input fluid
 elecKetoneBoiler.fluid_box.filter = "fluoroketone-cold"
-elecKetoneBoiler.fluid_box.minimum_temperature = -150
+--elecKetoneBoiler.fluid_box.minimum_temperature = -150-REMOVED IN FACTORIO 2.1
 elecKetoneBoiler.fluid_box.volume = settings.startup["ketone-boiler_fluid_box_volume"].value
 --output fluid
 elecKetoneBoiler.mode = "output-to-separate-pipe"
 elecKetoneBoiler.output_fluid_box.filter = "fluoroketone-hot"
-elecKetoneBoiler.output_fluid_box.maximum_temperature = 180
+--elecKetoneBoiler.output_fluid_box.maximum_temperature = 180-REMOVED IN FACTORIO 2.1
 elecKetoneBoiler.output_fluid_box.volume = settings.startup["ketone-boiler_fluid_box_volume"].value
 elecKetoneBoiler.target_temperature = 180
 
